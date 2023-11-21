@@ -1,0 +1,27 @@
+header {
+    background-color: rgb(80, 14, 233);
+    color:aliceblue;
+    margin:10px 10px;
+    text-decoration: underline;
+    text-align: center;
+}
+body {
+    display:flex;  justify-content:center;
+    min-height:30vh;
+  }
+section {
+    background-color: aquamarine;
+    border: rgb(0, 140, 255) 10px solid;
+    text-align: center;
+    padding: 30px;
+    width:40%
+}
+section  label {
+    color: rgb(255, 0, 179);
+    font-size: 20px;
+}
+section form input {
+    background-color: gray;
+    border-radius: 20px;
+    height: 20px;
+}

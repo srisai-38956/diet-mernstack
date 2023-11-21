@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <title>WELCOME!!!</title>
+    </head>
+    <body>
+        <header></header>
+        <section>
+            <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Aboutus</a></li>
+                <li><a href="#">Contactus</a></li>
+                <li><a href="#">login</a></li>
+                </ul>
+                </nav>
+                </section>
+                 WELCOME TO DIET
+                 <article>
+              <footer>
+                        COMPLETE HERE!!!
+                    </footer>
+             </article>
+        </body>
+     </html>
+
